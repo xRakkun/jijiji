@@ -10144,3 +10144,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Mar2025 01:48:10.338] [Worker-Main-1/DEBUG] [oritech/]: placing resource node at BlockPos{x=2456, y=5, z=24333} with deep BlockPos{x=2456, y=-63, z=24333}
 [25Mar2025 01:48:50.306] [Worker-Main-1/DEBUG] [oritech/]: placing resource node at BlockPos{x=2507, y=6, z=24378} with deep BlockPos{x=2507, y=-61, z=24378}
 [25Mar2025 01:49:05.596] [Worker-Main-1/DEBUG] [oritech/]: placing resource node at BlockPos{x=2187, y=48, z=24379} with deep BlockPos{x=2187, y=-62, z=24379}
+[25Mar2025 01:51:03.312] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[25Mar2025 01:54:08.785] [Worker-Main-1/DEBUG] [oritech/]: placing resource node at BlockPos{x=2144, y=48, z=24375} with deep BlockPos{x=2144, y=-60, z=24375}
+[25Mar2025 01:56:03.279] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[25Mar2025 01:56:05.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Spectator Mode]
+[25Mar2025 01:56:14.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Survival Mode]
+[25Mar2025 01:57:26.190] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=2182, y=73, z=23914} with deep BlockPos{x=2182, y=-62, z=23914}
+[25Mar2025 01:59:55.317] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=2000, y=90, z=23901} with deep BlockPos{x=2000, y=-60, z=23901}
