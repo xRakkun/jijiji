@@ -10900,3 +10900,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Mar2025 16:31:51.699] [Worker-Main-2/DEBUG] [oritech/]: placing resource node at BlockPos{x=1726, y=73, z=22619} with deep BlockPos{x=1726, y=-61, z=22619}
 [25Mar2025 16:31:58.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Survival Mode]
 [25Mar2025 16:32:02.812] [Worker-Main-3/DEBUG] [oritech/]: placing resource node at BlockPos{x=1591, y=79, z=22602} with deep BlockPos{x=1591, y=-59, z=22602}
+[25Mar2025 16:33:11.332] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[25Mar2025 16:33:53.918] [Worker-Main-1/DEBUG] [oritech/]: placing resource node at BlockPos{x=1312, y=81, z=22618} with deep BlockPos{x=1312, y=-60, z=22618}
+[25Mar2025 16:34:08.235] [Worker-Main-1/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[25Mar2025 16:34:26.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Spectator Mode]
+[25Mar2025 16:34:40.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Survival Mode]
+[25Mar2025 16:37:15.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Spectator Mode]
+[25Mar2025 16:37:32.907] [Worker-Main-1/DEBUG] [mixin/]: Mixing FarmerWorkTaskAccessor from fabric-content-registries-v0.mixins.json into net.minecraft.world.entity.ai.behavior.WorkAtComposter
+[25Mar2025 16:37:32.908] [Worker-Main-1/DEBUG] [mixin/]: fabric-content-registries-v0.mixins.json:FarmerWorkTaskAccessor from mod fabric_content_registries_v0: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+[25Mar2025 16:37:32.908] [Worker-Main-1/DEBUG] [mixin/]: Renaming @Accessor method fabric_setCompostables(Ljava/util/List;)V to fabric_setCompostables$fabric_content_registries_v0_$md$69869f$0 in fabric-content-registries-v0.mixins.json:FarmerWorkTaskAccessor from mod fabric_content_registries_v0
+[25Mar2025 16:37:32.908] [Worker-Main-1/DEBUG] [mixin/]: Renaming @Accessor method fabric_getCompostable()Ljava/util/List; to fabric_getCompostable$fabric_content_registries_v0_$md$69869f$1 in fabric-content-registries-v0.mixins.json:FarmerWorkTaskAccessor from mod fabric_content_registries_v0
+[25Mar2025 16:37:37.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Survival Mode]
+[25Mar2025 16:37:49.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Applied enchantment Fortune III to xRakkun's item]
+[25Mar2025 16:37:55.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Spectator Mode]
+[25Mar2025 16:38:05.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Survival Mode]
+[25Mar2025 16:38:11.323] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world

@@ -733,3 +733,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Mar2025 16:31:21.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Survival Mode]
 [25Mar2025 16:31:41.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Spectator Mode]
 [25Mar2025 16:31:58.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Survival Mode]
+[25Mar2025 16:34:08.235] [Worker-Main-1/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Item must not be minecraft:air'
+[25Mar2025 16:34:26.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Spectator Mode]
+[25Mar2025 16:34:40.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Survival Mode]
+[25Mar2025 16:37:15.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Spectator Mode]
+[25Mar2025 16:37:37.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Survival Mode]
+[25Mar2025 16:37:49.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Applied enchantment Fortune III to xRakkun's item]
+[25Mar2025 16:37:55.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Spectator Mode]
+[25Mar2025 16:38:05.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Survival Mode]
