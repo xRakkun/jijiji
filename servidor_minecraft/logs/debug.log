@@ -10151,3 +10151,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Mar2025 01:56:14.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Survival Mode]
 [25Mar2025 01:57:26.190] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=2182, y=73, z=23914} with deep BlockPos{x=2182, y=-62, z=23914}
 [25Mar2025 01:59:55.317] [Worker-Main-4/DEBUG] [oritech/]: placing resource node at BlockPos{x=2000, y=90, z=23901} with deep BlockPos{x=2000, y=-60, z=23901}
+[25Mar2025 02:01:03.272] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[25Mar2025 02:05:02.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xRakkun lost connection: Disconnected
+[25Mar2025 02:05:02.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xRakkun left the game
+[25Mar2025 02:05:05.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Mar2025 02:05:05.730] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[25Mar2025 02:05:05.730] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[25Mar2025 02:05:05.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Mar2025 02:05:05.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Mar2025 02:05:05.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Mar2025 02:05:05.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Mar2025 02:05:05.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Mar2025 02:05:05.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Mar2025 02:05:05.778] [Server thread/DEBUG] [net.neoforged.neoforge.common.CommonHooks/WP]: Gathered mod list to write to world save world
+[25Mar2025 02:05:05.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Mar2025 02:05:05.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Mar2025 02:05:05.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Mar2025 02:05:05.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Mar2025 02:05:05.795] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[25Mar2025 02:05:05.795] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[25Mar2025 02:05:05.822] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[25Mar2025 02:05:05.822] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[25Mar2025 02:05:05.823] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[25Mar2025 02:05:05.823] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[25Mar2025 02:05:05.825] [Server thread/DEBUG] [SpectreLib/CONFIG]: Unloading server configs
+[25Mar2025 02:05:05.826] [Server thread/DEBUG] [net.neoforged.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

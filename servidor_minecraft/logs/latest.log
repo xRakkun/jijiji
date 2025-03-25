@@ -702,3 +702,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Mar2025 01:45:54.632] [Worker-Main-4/ERROR] [net.minecraft.world.item.ItemStack/]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:attribute]: bettertrims:item_magnet missed input: {"minecraft:attribute_modifiers":{modifiers:[{amount:1.0d,id:"minecraft:armor.helmet",operation:"add_value",slot:"head",type:"minecraft:generic.armor"},{amount:0.0d,id:"minecraft:armor.helmet",operation:"add_value",slot:"head",type:"minecraft:generic.armor_toughness"},{amount:1.0d,id:"bettertrims:item_magnet_trimmed_head",operation:"add_value",slot:"head",type:"bettertrims:item_magnet"}]}}'
 [25Mar2025 01:56:05.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Spectator Mode]
 [25Mar2025 01:56:14.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xRakkun: Set own game mode to Survival Mode]
+[25Mar2025 02:05:02.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xRakkun lost connection: Disconnected
+[25Mar2025 02:05:02.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xRakkun left the game
+[25Mar2025 02:05:05.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Mar2025 02:05:05.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Mar2025 02:05:05.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Mar2025 02:05:05.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Mar2025 02:05:05.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Mar2025 02:05:05.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Mar2025 02:05:05.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Mar2025 02:05:05.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Mar2025 02:05:05.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Mar2025 02:05:05.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Mar2025 02:05:05.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
