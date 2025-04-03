@@ -1,0 +1,17 @@
+# Default: 24
+# Range: 4 ~ 64
+wandInteractionDistance = 24
+
+[materials]
+	# Default: 64
+	# Range: 1 ~ 1000
+	crystalOfFlameRequirement = 64
+	# Default: 64
+	# Range: 1 ~ 1000
+	crystalOfWinterstormRequirement = 64
+	# Default: 40
+	# Range: 0 ~ 1000
+	focusCoolDown = 40
+	# Default: 3
+	# Range: 1 ~ 16
+	ritualRange = 3
